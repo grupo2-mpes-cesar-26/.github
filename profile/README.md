@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👥 Grupo 2 · MPES CESAR 26
+# 👥 Grupo 2 · MPES CESAR 26.2
 
 **Mestrado Profissional em Engenharia de Software — CESAR School · Turma 2026.2**
 
